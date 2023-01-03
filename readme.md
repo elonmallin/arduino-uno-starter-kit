@@ -1,4 +1,4 @@
-# Playing with Arduino starter kit
+# Playing with Arduino Uno starter kit
 ## Project 1
 ![Project 1 gif](project1/showcase.gif)
 ## Project 2
