@@ -7,3 +7,5 @@ Going through the projects in the [projects book](https://www.uio.no/studier/emn
 ## Project 2 - Spaceship interface
 ![Project 2 gif](project2/showcase.gif)
 
+## Project 3 - Heat sensor
+![Project 3 gif](project3/showcase.gif)
