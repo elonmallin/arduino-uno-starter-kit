@@ -9,3 +9,6 @@ Going through the projects in the [projects book](https://www.uio.no/studier/emn
 
 ## Project 3 - Heat sensor
 ![Project 3 gif](project3/showcase.gif)
+
+## Project 4 - Color detector
+![Project 4 gif](project4/showcase.gif)
