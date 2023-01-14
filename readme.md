@@ -12,3 +12,6 @@ Going through the projects in the [projects book](https://www.uio.no/studier/emn
 
 ## Project 4 - Color detector
 ![Project 4 gif](project4/showcase.gif)
+
+## Project 5 - Servo react vs angular ( ͡° ͜ʖ ͡°)
+![Project 5 gif](project5/showcase.gif)
