@@ -16,6 +16,9 @@ Going through the projects in the [projects book](https://www.uio.no/studier/emn
 ## Project 5 - Servo react vs angular ( ͡° ͜ʖ ͡°)
 ![Project 5 gif](project5/showcase.gif)
 
+## Project 6 - Piezo sound
+![Project 6 gif](project6/showcase.gif)
+
 # Other projects
 
 ## Volume control
